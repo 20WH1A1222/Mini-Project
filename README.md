@@ -1,1 +1,1 @@
-# Mini-Project
+# Automated Light Intensity
